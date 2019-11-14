@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GooglePayDemo</string>
+    <string name="wait">wait…</string>
+    <string name="title">Sample Activity #%d</string>
+</resources>
